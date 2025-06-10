@@ -1,7 +1,10 @@
 # Introducción a Maven y Git.
 Maven es una herramienta de gestión de proyectos en Java que facilita la compilación, empaquetado y gestión de dependencias mediante un archivo pom.xml.
 Git es un sistema de control de versiones distribuido que permite gestionar cambios en el código, colaborar en equipo y mantener un historial en modificaciones.
+
 Adelante encontrarás un ejemplo de como usar estas herramientas.
+
+
 Instalacion de maven
 ![](./src/site/resources/1.png)
 
