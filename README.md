@@ -1,5 +1,6 @@
 # Introducción a Maven y Git.
 
+### En este repositorio se encuentra una introducción sobre como crear proyectos con Maven que es un herramienta para la contruccion de proyectos. Tambien sobre como usar Git un sistema de control de versiones para rastrea la version de los archivos. 
 Instalacion de maven
 ![](./src/site/resources/1.png)
 
